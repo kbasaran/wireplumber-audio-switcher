@@ -29,4 +29,4 @@ The script will play an E4 note first. As for second note,
 All notes for source will play on default sink.
 
 ## How I use it
-I use GNOME desktop and have assigned keyboard shortcuts for my scenarios. I use `Ctrl + Super + F1-F4` for this. Each shortcut runs the same script but with a different scenario as argument.
+I use GNOME desktop and have assigned keyboard shortcuts `Ctrl + Super + F1-F4` for my different scenarios. Each shortcut runs the script with a different scenario as argument.
