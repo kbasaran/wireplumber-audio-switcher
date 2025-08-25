@@ -12,7 +12,7 @@ Run the tool from command line with the desired scenario given as a positional a
 
 `/home/myhome/python_venv/bin/python /home/myhome/documents/audio_switcher.py TV`
 
-The script will look for devices that contain all the defined keywords and switch to those devices immediately. 
+The script will look for devices that contain all the defined keywords and switch to those devices. 
 
 ## Audio hints
 The tool plays audio hints to clarify if the switch was successful. First two notes for the sink (play device), then two notes for the source (record device).
