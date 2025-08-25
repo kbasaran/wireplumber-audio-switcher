@@ -15,7 +15,7 @@ Run the tool from command line with the desired scenario given as a positional a
 The script will look for devices that contain all the defined keywords and switch to those devices. 
 
 ## Audio hints
-The tool plays audio hints to clarify if the switch was successful. First two notes for the sink (play device), then two notes for the source (record device).
+The tool plays audio hints to clarify if the switch was successful. First two notes for the sink and then two notes for the source will be played.
 
 ### Sink notes
 The script will play an E4 note on the old device first. As for second note,
