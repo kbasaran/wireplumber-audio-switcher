@@ -21,7 +21,7 @@ The tool plays audio hints to clarify if the switch was successful. First two no
 The script will play an E4 note on the old device first. As for second note,
 - If new device is found, it will play an E5 on the new device.
 - If device not found, it will play a C5 on the old device.
-- 
+
 ### Source notes
 The script will play an E4 note first. As for second note,
 - If new device is found, it will play an E5.
