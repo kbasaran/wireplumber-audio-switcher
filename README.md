@@ -8,7 +8,7 @@ Run `wpctl status` to see the names of your devices and edit the `scenarios` dic
   - First tuple in the tuple is sink keywords, such as `("Philips", "HDMI", "Digital")`.
   - Second tuple in the tuple is source keywords, such as `("Presonus", "Microphone", "Digital")`.
 
-Run the tool from command line with the desired dictionary key:
+Run the tool from command line with the desired scenario given as a positional argument:
 
 `/home/myhome/python_venv/bin/python /home/myhome/documents/audio_switcher.py tv`
 
