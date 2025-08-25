@@ -1,4 +1,4 @@
-# Wireplumber audio switcher
+# Wireplumber Audio Switcher
 CLI tool to quickly switch microphone and speaker (source and sink) to predefined devices.
 
 ## How to use
