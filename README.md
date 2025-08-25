@@ -27,3 +27,6 @@ The script will play an E4 note first. As for second note,
 - If new device is found, it will play an E5.
 - If device not found, it will play a C5.
 All notes for source will play on default sink.
+
+## How I use it
+I use GNOME desktop and have assigned keyboard shortcuts for my scenarios. I use `Ctrl + Super + F1-F4` for this. Each shortcut runs the same script but with a different scenario as argument.
