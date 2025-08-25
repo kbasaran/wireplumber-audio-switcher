@@ -23,7 +23,7 @@ The script will play an E4 note on the old device first. As for second note,
 - If device not found, it will play a C5 on the old device.
 - 
 ### Source notes
-The script will play an E4 note. As for second note,
+The script will play an E4 note first. As for second note,
 - If new device is found, it will play an E5.
 - If device not found, it will play a C5.
 All notes for source will play on default sink.
