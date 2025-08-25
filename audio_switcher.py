@@ -1,4 +1,7 @@
-"Switch audio devices in wireplumber"
+"""
+Switch audio devices in wireplumber
+Kerem Basaran 2025
+""""
 
 import subprocess
 import logging
