@@ -13,7 +13,7 @@ import time
 
 
 class Beeper():
-    A = .7
+    A = .5
     FS = 48000
     T = 0.1
     
